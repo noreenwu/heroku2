@@ -1,1 +1,1 @@
-export $DATABASE_URL="postgres://localhost:5432/hero"
+export DATABASE_URL=postgres://localhost:5432/hero
